@@ -1,0 +1,14 @@
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/carlos/RiderProjects/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
