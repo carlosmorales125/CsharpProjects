@@ -1,0 +1,15 @@
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/bin/Debug/net8.0/DiceRolling
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/bin/Debug/net8.0/DiceRolling.deps.json
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/bin/Debug/net8.0/DiceRolling.runtimeconfig.json
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/bin/Debug/net8.0/DiceRolling.dll
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/bin/Debug/net8.0/DiceRolling.pdb
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.AssemblyInfoInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.AssemblyInfo.cs
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.csproj.CoreCompileInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.sourcelink.json
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.dll
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/refint/DiceRolling.dll
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.pdb
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/DiceRolling.genruntimeconfig.cache
+/Users/carlos/RiderProjects/CsharpProjects/DiceRolling/obj/Debug/net8.0/ref/DiceRolling.dll

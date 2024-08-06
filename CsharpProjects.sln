@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{84CABEDF-F581-4169-847D-84A0ED131634}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRolling", "DiceRolling\DiceRolling.csproj", "{3AE46D10-BEE4-4B57-9CBE-1DB9638661E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{84CABEDF-F581-4169-847D-84A0ED131634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84CABEDF-F581-4169-847D-84A0ED131634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84CABEDF-F581-4169-847D-84A0ED131634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE46D10-BEE4-4B57-9CBE-1DB9638661E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE46D10-BEE4-4B57-9CBE-1DB9638661E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE46D10-BEE4-4B57-9CBE-1DB9638661E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE46D10-BEE4-4B57-9CBE-1DB9638661E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
