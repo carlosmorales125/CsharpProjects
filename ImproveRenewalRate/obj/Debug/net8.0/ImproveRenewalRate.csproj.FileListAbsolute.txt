@@ -1,0 +1,15 @@
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.deps.json
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.runtimeconfig.json
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.dll
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/bin/Debug/net8.0/ImproveRenewalRate.pdb
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.AssemblyInfoInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.AssemblyInfo.cs
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.csproj.CoreCompileInputs.cache
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.sourcelink.json
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.dll
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/refint/ImproveRenewalRate.dll
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.pdb
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ImproveRenewalRate.genruntimeconfig.cache
+/Users/carlos/RiderProjects/CsharpProjects/ImproveRenewalRate/obj/Debug/net8.0/ref/ImproveRenewalRate.dll
